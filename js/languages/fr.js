@@ -205,7 +205,7 @@
       // Clear formatting
       'Clear Formatting': 'Effacer le formatage',
       // Save
-      'Save': 'sauvegarder',
+      'Save': 'Sauvegarder',
       // Undo, redo
       'Undo': 'Annuler',
       'Redo': "R\xE9tablir",
